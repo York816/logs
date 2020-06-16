@@ -1,0 +1,5 @@
+2020/35/06/12/20 17:35:05 PM - DEBUG - This is a debug log.
+2020/35/06/12/20 17:35:05 PM - INFO - This is a info log.
+2020/35/06/12/20 17:35:05 PM - WARNING - This is a warning log.
+2020/35/06/12/20 17:35:05 PM - ERROR - This is a error log.
+2020/35/06/12/20 17:35:05 PM - CRITICAL - This is a critical log.
